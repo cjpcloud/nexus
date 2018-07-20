@@ -29,13 +29,13 @@
     <distributionManagement>
     <repository>
         <id>central</id>
-        <name>ip-172-31-46-205.us-west-2.compute.internal-releases</name>
-        <url>http://35.162.208.86:8081/artifactory/guru123</url>
+        <name>http://54.172.244.241:8081/nexus-lates</name>
+        <url>http://54.172.244.241:8081/nexus-lates/guru123</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>ip-172-31-46-205.us-west-2.compute.internal-snapshots</name>
-        <url>http://35.162.208.86:8081/artifactory/guru123</url>
+        <name>http://54.172.244.241:8081/nexus-lates</name>
+        <url>http://54.172.244.241:8081/nexus-lates/guru123</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
